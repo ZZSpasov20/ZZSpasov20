@@ -13,6 +13,7 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
 <code><img height="27" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></code>
 <code><img height="27" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Sass"></code>
 <code><img height="27" src="https://github.com/user-attachments/assets/088eb823-b8ef-4d54-bdb6-01abbc348b71" alt="T-SQL"></code>
+<code><img height="27" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRES"></code>
 
 
 ### Frameworks and Libraries:
