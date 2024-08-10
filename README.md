@@ -17,8 +17,12 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
 
 
 ### Frameworks and Libraries:
+<code><img height="27" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></code>
 <code><img height="27" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue"></code>
+<code><img height="27" src="https://github.com/user-attachments/assets/e3c1e76b-107f-4c95-bfd2-44ea149c8cf0" alt="Tanstack(react query)"></code>
 <code><img height="27" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"></code>
+<code><img height="27" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React router"></code>
+<code><img height="27" src="https://github.com/user-attachments/assets/0b60fdaa-de23-451f-86da-da85c8ac9c3c" alt="Axios"></code>
 <code><img height="27" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"></code>
 <code><img height="27" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"></code>
 <code><img height="27" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate"></code>
