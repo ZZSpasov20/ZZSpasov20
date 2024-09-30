@@ -71,12 +71,4 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
 <a href = "https://www.credly.com/badges/4f422709-7876-4c9f-b702-d2d0417627b7/public_url"><img src = "https://images.credly.com/size/340x340/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" width = "100px" height = "100px"></a>
 </details>
 
-<details>
-  <summary>🗃️ Repositoires</summary>
-  
 
-[![Neos](https://github-readme-stats.vercel.app/api/pin/?username=zypetkova20&repo=Neos)](https://github.com/ZYPetkova20/Neos)
-[![Onsens](https://github-readme-stats.vercel.app/api/pin/?username=sysolakov20&repo=onsens)](https://github.com/SYSolakov20/onsens)
-[![Historical-Geography-Project](https://github-readme-stats.vercel.app/api/pin/?username=zypetkova20&repo=Historical-Geography-Project)](https://github.com/ZYPetkova20/Historical-Geography-Project)
-[![AQUA-theFishers](https://github-readme-stats.vercel.app/api/pin/?username=SMPonchev18&repo=AQUA-theFishers)](https://github.com/SMPonchev18/AQUA-theFishers)
-</details>
