@@ -7,7 +7,6 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
 - 📫 &nbsp; Get in touch with me: ZZSpasov20.codingburgas.bg
 
 ### Programing Languages
-<code><img height="27" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></code>
 <code><img height="27" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascipt"></code>
 <code><img height="27" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"></code>
 <code><img height="27" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></code>
@@ -25,11 +24,9 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
 <code><img height="27" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React hook form"></code>
 <code><img height="27" src="https://github.com/user-attachments/assets/e3c1e76b-107f-4c95-bfd2-44ea149c8cf0" alt="Tanstack(react query)"></code>
 <code><img height="27" src="https://github.com/user-attachments/assets/0b60fdaa-de23-451f-86da-da85c8ac9c3c" alt="Axios"></code>
-<code><img height="27" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"></code>
 
 
 ### Back-end:
-<code><img height="27" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></code>
 <code><img height="27" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"></code>
 <code><img height="27" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate"></code>
 <code><img height="27" src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf"></code>
@@ -42,7 +39,6 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
 
 ### Tools, Testing and Hosting
 <code><img height="27" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS CODE"></code>
-<code><img height="27" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" alt="PHPStorm"></code>
 <code><img height="27" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Intellij idea"></code>
 <code><img height="27" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></code>
 <code><img height="27" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></code>
