@@ -8,7 +8,6 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
 
 ### Programing Languages
 <code><img height="27" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascipt"></code>
-<code><img height="27" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"></code>
 <code><img height="27" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></code>
 
 
@@ -16,12 +15,10 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
 ### Front-end:
 <code><img height="27" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></code>
 <code><img height="27" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></code>
-<code><img height="27" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue"></code>
 <code><img height="27" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></code>
 <code><img height="27" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Sass"></code>
 <code><img height="27" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"></code>
 <code><img height="27" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React router"></code>
-<code><img height="27" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React hook form"></code>
 <code><img height="27" src="https://github.com/user-attachments/assets/e3c1e76b-107f-4c95-bfd2-44ea149c8cf0" alt="Tanstack(react query)"></code>
 <code><img height="27" src="https://github.com/user-attachments/assets/0b60fdaa-de23-451f-86da-da85c8ac9c3c" alt="Axios"></code>
 
@@ -32,7 +29,6 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
 <code><img height="27" src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf"></code>
 
 ### Database:
-<code><img height="27" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></code>
 <code><img height="27" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL"></code>
 <code><img height="27" src="https://github.com/user-attachments/assets/2675e2f5-64d2-4b56-a81b-2990d0262ac0" alt="H2 database"></code>
 
@@ -41,11 +37,10 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
 <code><img height="27" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS CODE"></code>
 <code><img height="27" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Intellij idea"></code>
 <code><img height="27" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></code>
+<code><img height="27" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Maven"></code>
 <code><img height="27" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></code>
 <code><img height="27" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"></code>
-<code><img height="27" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Maven"></code>
 <code><img height="27" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></code>
-<code><img height="27" src="https://github.com/user-attachments/assets/45cb79be-f9dd-49bb-a987-28e3da650d6f" alt="JUnit"></code>
 <code><img height="27" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"></code>
 <code><img height="27" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></code>
 <code><img height="27" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swaggwer"></code>
